@@ -1,0 +1,572 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pro",
+				"provider"
+			],
+			[
+				"translate",
+				"translateText"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"re",
+				"Request"
+			],
+			[
+				"n",
+				"nowrap"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"i",
+				"italic"
+			],
+			[
+				"text-",
+				"text-transform"
+			],
+			[
+				"translated",
+				"translatedText"
+			],
+			[
+				"translatext",
+				"translatedText"
+			],
+			[
+				"transla",
+				"translatedText"
+			],
+			[
+				"tra",
+				"translatedText"
+			],
+			[
+				"tex",
+				"Text"
+			],
+			[
+				"down",
+				"downloadLink"
+			],
+			[
+				"SS",
+				"SSISError"
+			],
+			[
+				"the",
+				"theException"
+			],
+			[
+				"fileSuper",
+				"fileSupervisorManager"
+			],
+			[
+				"addtok",
+				"addtoken=\"false\"	addtoken"
+			]
+		]
+	},
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"html",
+				"Set Syntax: HTML5"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: i",
+				"Package Control: Install Package"
+			],
+			[
+				"js",
+				"Snippet: jQuery.getScript"
+			],
+			[
+				"format",
+				"Format: Javascript"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"htm",
+				"Tidy HTML"
+			],
+			[
+				"java",
+				"Format: Javascript"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"ht",
+				"HTMLPrettify: Prettify"
+			],
+			[
+				"fol",
+				"ColdFusion: Insert CFlib UDF"
+			],
+			[
+				"javas",
+				"Format: Javascript"
+			],
+			[
+				"ti",
+				"Tidy HTML"
+			],
+			[
+				"tid",
+				"Tidy HTML"
+			],
+			[
+				"pr",
+				"HTMLPrettify: Prettify"
+			],
+			[
+				"t",
+				"Tidy HTML"
+			],
+			[
+				"sql",
+				"FormatSQL: Format SQL statement"
+			],
+			[
+				"trans",
+				"Google: Translate from Input"
+			],
+			[
+				"xml",
+				"Indent XML"
+			],
+			[
+				"inde",
+				"Indent XML"
+			],
+			[
+				"",
+				"Tidy HTML"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/TEMP/miTranslator/index.html",
+		"/D/TEMP/miTranslator/css/miTranslator.css",
+		"/D/TEMP/miTranslator/js/purl.min.js",
+		"/D/TEMP/miTranslator/js/miTranslator.js",
+		"/D/TEMP/miTranslator/js/jquery.mobile.iscrollview.js",
+		"/D/TEMP/miTranslator/js/iscroll.js",
+		"/D/TEMP/miTranslator/js/purl.js",
+		"/D/TEMP/miTranslator/js/jquery-2.0.2.min.js",
+		"/C/VMs/OS X Mountain Lion 10.8.3 VMware Image/OS X Mountain Lion/OS X Mountain Lion.vmxf",
+		"/C/VMs/OS X Mountain Lion 10.8.2 VMware Image/OS X Mountain Lion/OS X Mountain Lion.vmx",
+		"/C/Temp/vm.vmx",
+		"/C/Temp/t.txt",
+		"/D/Program Files (x86)/Internet Download Manager/Toolbar/ThL-Toolbar.tbi",
+		"/D/Program Files (x86)/Internet Download Manager/Toolbar/round.tbi",
+		"/D/Users/Pete/AppData/Local/Google/Chrome/User Data/Default/Extensions/dpphgmdbhahgadoggfojpaljepicgfpd/1.1.0.1_0/manifest.json",
+		"/D/TEMP/AVPlayerHD.plist",
+		"/D/TEMP/AVPlayerHD.html",
+		"/D/Program Files/WindowsApps/8C262882.1860866CBCC8A_1.0.4.1_neutral__ang27dyc4pmzr/microsoft.system.package.metadata/S-1-5-21-4021686013-1036176189-879775928-1001.recovery",
+		"/D/Program Files/WindowsApps/8C262882.1860866CBCC8A_1.0.4.1_neutral__ang27dyc4pmzr/microsoft.system.package.metadata/S-1-5-21-4021686013-1036176189-879775928-1001.pckgdep",
+		"/D/Program Files/WindowsApps/E1354D8C.34937EF15D4F9_1.1.5.0_x64__97d7ef5pp7jwp/AppxManifest.xml",
+		"/D/Program Files/WindowsApps/E1354D8C.34937EF15D4F9_1.1.5.0_x64__97d7ef5pp7jwp/App.xaml",
+		"/D/Users/Pete/Downloads/httpdisk-7/COPYING.TXT",
+		"/D/Users/Pete/Downloads/httpdisk-7/sys/obj/chk/amd64/httpdisk.pdb",
+		"/D/TEMP/bg.jpg",
+		"/D/Users/Pete/Documents/Development/jQuery Mobile/momentum/css/structure.css",
+		"/D/Users/Pete/Documents/Development/jQuery Mobile/momentum/css/jquery.momentum.css",
+		"/D/Users/Pete/Documents/Development/jQuery Mobile/momentum/js/jquery.mobile.js",
+		"/D/Users/Pete/Documents/Development/jQuery Mobile/momentum/js/jquery.momentum.js",
+		"/D/Users/Pete/AppData/Roaming/Sublime Text 2/Packages/GBK Encoding Support/tmp/jquery.easing.js                D%3A%5CUsers%5CPete%5CDocuments%5CDevelopment%5CjQuery+Mobile%5Cmomentum%5Cjs%5Cjquery.easing.js",
+		"/D/Users/Pete/Documents/Development/jQuery Mobile/momentum/js/jquery.easing.js",
+		"/D/Users/Pete/Downloads/transfero-master/src/languages.js",
+		"/D/Users/Pete/Downloads/transfero-master/src/transfero.js",
+		"/D/Users/Pete/Downloads/TranslatorContainer.cs",
+		"/C/ProgramData/Microsoft/Windows/Start Menu/Programs/SpeedDial2.json",
+		"/E/_dev/Translator/css/main.css",
+		"/E/_dev/Translator/index.html",
+		"/E/_dev/Translator/js/main.js",
+		"/E/_dev/Translator/js/jquery.dump.js",
+		"/E/_dev/Translator/miTranslator.sublime-project",
+		"/E/_dev/1ClickDBPro/css/custom.css",
+		"/E/_dev/Translator/_NEW/js/main.js",
+		"/E/_dev/Translator/_NEW/index.html",
+		"/E/Temp/speedial2.json",
+		"/E/_dev/1ClickDBPro/Schema.asp",
+		"/E/_dev/1ClickDBPro/PageInit.asp",
+		"/E/_dev/1ClickDBPro/edit",
+		"/E/_dev/1ClickDBPro/Connect.asp",
+		"/E/_dev/ICLP_CRM/ICLP_CRM/API/Web.config",
+		"/E/_dev/1ClickDBPro/ocdStyleSheet.css",
+		"/E/_dev/1ClickDBPro/themes/custom/custom.css",
+		"/E/_dev/1ClickDBPro/Edit.asp",
+		"/E/_dev/1ClickDBPro/js/custom.js",
+		"/E/_dev/1ClickDBPro/themes/noire/css/uniform.noire.min.css",
+		"/E/_dev/1ClickDBPro/themes/noire/css/uniform.noire.css",
+		"/C/Users/Pete Alexandrou/AppData/Roaming/Sublime Text 2/Packages/GBK Encoding Support/tmp/jquery.uniform.js                E%3A%5C_dev%5Cjquery.uniform%5Cjquery.uniform.js",
+		"/E/_dev/jquery.uniform/jquery.uniform.js",
+		"/E/_dev/1ClickDBPro/js/jquery.uniform.js",
+		"/E/_dev/1ClickDBPro/Config.asp",
+		"/E/_dev/1ClickDBPro/Logon.asp",
+		"/E/_dev/jquery.uniform/www/javascripts/index-theme.js",
+		"/E/_dev/jquery.uniform/themes/aristo/css/uniform.aristo.scss",
+		"/E/_dev/jquery.uniform/themes/aristo/css/uniform.aristo.css",
+		"/E/_dev/1ClickDBPro/adovbs.asp",
+		"/E/_dev/1ClickDBPro/Default.asp",
+		"/E/_dev/1ClickDBPro/ocdFunctions.asp",
+		"/E/_dev/1ClickDBPro/js/jquery.js",
+		"/E/_dev/1ClickDBPro/WizardSQLQuery.asp",
+		"/E/Documents/_work/Prize Draw/Data Import/UK Jan 2013 Promo/prizedraw-iclp.csv",
+		"/E/Documents/_work/Prize Draw/Data Import/UK Jan 2013 Promo/prizedraw-ird.csv",
+		"/E/Temp/mw-sc-data-fixed.sql",
+		"/E/_dev/PromotionsPlus/plugin/mura/mw-sc/includes/themes/YourBrand/templates/matchandwin_template1.cfm",
+		"/E/Downloads/blank.cfm",
+		"/E/Downloads/matchandwin_template1.cfm",
+		"/E/Temp/espresso-member-portal.log",
+		"/M/_MOUNTAIN LION/Users/ozmartian/Documents/Visual Studio 2008/Projects/PrizeDraw/.svn/wc.db",
+		"/M/_MOUNTAIN LION/Users/ozmartian/Documents/Visual Studio 2008/Projects/PrizeDraw/.svn/entries",
+		"/M/_MOUNTAIN LION/Users/ozmartian/Documents/Visual Studio 2008/Projects/PrizeDraw/.svn/format",
+		"/C/Users/Pete Alexandrou/AppData/Roaming/Sublime Text 2/Packages/GBK Encoding Support/tmp/googleitics.cfc                E%3A%5C_dev%5Cgoogleitics%5Cgoogleitics.cfc",
+		"/E/_dev/googleitics/googleitics.cfc",
+		"/E/_dev/Translator/_NEW/css/main.css",
+		"/E/_dev/Prize Draw/LicensingService/PrizeDraw_Licensing.sql",
+		"/E/_dev/Translator/_NEW/js/clipboardPlugin.js",
+		"/E/_dev/Translator/_NEW/css/._main.css",
+		"/E/_dev/Translator/plugins/jquery.detectmobile.js",
+		"/E/Downloads/detectmobilebrowser.js.txt",
+		"/E/_dev/Translator/index.html.bak.html",
+		"/E/_dev/Translator/js/jquery.mobile.js",
+		"/E/_dev/Translator/plugins/ZeroClipboard/ZeroClipboard.js",
+		"/E/_dev/Translator/css/jquery.mobile.css",
+		"/E/_dev/Translator/js/jquery.js",
+		"/E/_dev/Translator/plugins/ZeroClipboard/ZeroClipboard.swf",
+		"/E/_dev/Translator/miTranslator.sublime-workspace",
+		"/C/Users/Pete Alexandrou/AppData/Roaming/Sublime Text 2/Packages/User/HTML.sublime-settings",
+		"/E/_dev/CFMonitoring/index.cfm",
+		"/E/_dev/PhoneGap/offer.html",
+		"/E/_dev/PhoneGap/index.html",
+		"/E/_dev/iTracker/Find My iPhone.ico",
+		"/E/_dev/iTracker/Find My iPhone.png"
+	],
+	"find":
+	{
+		"height": 41.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"E:\\_dev\\1ClickDBPro",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"230px",
+			"url",
+			"firm",
+			"vusb",
+			"firm",
+			"vusb",
+			"gues",
+			"firm",
+			"firmware",
+			"vusb",
+			"guestos",
+			"firmware",
+			"guest",
+			"GUESTOS",
+			"embe",
+			"profile",
+			"map",
+			" store ",
+			"store",
+			"E1354D8C",
+			"E1354D8C.34937EF15D4F9",
+			"\\n\\n",
+			"<br>",
+			"<br>>",
+			"'/images/",
+			"mobile",
+			"jquery.mobile",
+			"this.apiKey",
+			"setProvider",
+			"notify",
+			"Lato",
+			"miTranslator",
+			"dumpobj",
+			"dumpObj",
+			"undefined",
+			"<h1",
+			"<hr",
+			"hr",
+			"valign=\"top\"",
+			"valign=top",
+			"valign='top' ",
+			"<a href=\"Schema.asp?show=ADO\">Database</a>",
+			"refre",
+			"password",
+			"databaSE",
+			"Initial",
+			"<form",
+			"Enter IP, DNS, or Windows Server Name\n",
+			"SQL Server",
+			"sql ser",
+			"ocdConnectURL",
+			"session",
+			"provider",
+			"sqlserver&",
+			"ocdAdminAuthorized",
+			"pass",
+			"<hr",
+			"\"\"1\"\" noshade",
+			"<hr",
+			" Make https secure",
+			"Logon",
+			"https",
+			"div align",
+			"motif",
+			"ocdDefaultMotif",
+			"	ocdDefaultMotif = \"Classic\"\n",
+			"<form",
+			"form",
+			"<form",
+			"Logon.asp",
+			"<br/>",
+			"ocdMotif",
+			"motif",
+			"<hr",
+			"Information",
+			"<hr>",
+			"center",
+			"<center",
+			"ocdBrandLogo",
+			"browser",
+			"jQuery.browser",
+			"function (",
+			".scss",
+			"writeHeader",
+			"WriteHeader",
+			"sqlfrom_A",
+			"close",
+			"Orbit",
+			"maroon",
+			"1px #FFF",
+			"#000",
+			"#translate",
+			"translateButton",
+			"vclick ",
+			"dialog",
+			"dummy",
+			"dummyMouse",
+			"bind(realType,",
+			"bind( realType,",
+			"'",
+			"langQS",
+			".swf",
+			"state",
+			"1s",
+			"3s",
+			".5s",
+			"2s",
+			".4",
+			".15",
+			"touchstart",
+			"tap",
+			"click",
+			"phonegap",
+			"modal",
+			"E:\\Program Files ",
+			"debugmode",
+			"data-mini=\"false\" ",
+			"data-mini=\"true\" ",
+			"theme",
+			"height",
+			"height]",
+			"height",
+			"class=\"tlt\" ",
+			"spell",
+			"spelling",
+			"theme",
+			"Chinese Traditional",
+			"selected"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"\\n",
+			"",
+			"'http://experts-exchange.com/",
+			"setprovider",
+			"miTrans",
+			"dump",
+			"",
+			"\"\"1\"\" noshade color=\"\"silver\"\"",
+			"",
+			"<hr size=\"\"1\"\" noshade />",
+			"function(",
+			"0 #000",
+			"FFF",
+			"translate",
+			"\"",
+			".5s",
+			"1s",
+			"3s",
+			".5s",
+			"2",
+			".4",
+			"tap",
+			"C:\\Program Files ",
+			"",
+			"Chinese (Traditional)",
+			"getdate()",
+			"",
+			"FCL_CAN_PROD",
+			"\"",
+			"\\n",
+			"\\n/set",
+			"",
+			"<option id=\"clientselect_option_go\" value=\"2\" title=\"/GrandOptical/images/favicon.ico\" selected=\"selected\">GrandOptical</option>",
+			"<option id=\"clientselect_option_rs\" value=\"1\" title=\"/RedStar/images/favicon.ico\">RedStar</option>",
+			"logo_rs.jpg",
+			"url(\"../images/jscal2/",
+			"<img src=\"images/logo_go.png\" alt=\"\" />",
+			"<option id=\"clientselect_option_rs\" value=\"1\" title=\"/RedStar/images/favicon.ico\">RedStar</option>",
+			"<option id=\"clientselect_option_go\" value=\"2\" title=\"/GrandOptical/images/favicon.ico\" selected=\"selected\">GrandOptical</option>",
+			"<option id=\"clientselect_option_rs\" value=\"1\" title=\"/RedStar/images/favicon.ico\">RedStar</option>",
+			"right",
+			"len",
+			"{}",
+			"left",
+			"queryAddRow",
+			"querySetCell",
+			"queryNew",
+			"deserializeJSON",
+			"isJSON",
+			"\" required",
+			"http://tfs.loyalty.net.cn"
+		],
+		"reverse": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 30.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/E/_dev/Translator/miTranslator.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 222.0,
+	"status_bar_visible": true
+}
